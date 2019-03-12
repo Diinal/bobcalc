@@ -1,0 +1,48 @@
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe.config
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.Page1.resources
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.Page2.resources
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.Properties.Resources.resources
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.GenerateResource.Cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Release\Bobcalc.Page3.resources
+D:\C#\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe.config
+D:\C#\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe
+D:\C#\Bobcalc\Bobcalc\bin\Release\Bobcalc.pdb
+D:\C#\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.dll
+D:\C#\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.dll
+D:\C#\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.xml
+D:\C#\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.xml
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.csprojResolveAssemblyReference.cache
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.ResolveComReference.cache
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.MainPage.resources
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.Properties.Resources.resources
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.GenerateResource.Cache
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.exe
+D:\C#\Bobcalc\Bobcalc\obj\Release\Bobcalc.pdb
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe.config
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.exe
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.pdb
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\Bobcalc.exe
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\Bobcalc.pdb
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.dll
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.dll
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\CircularProgressBar.xml
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Release\WinFormAnimation.xml
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.OtkatPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.Properties.Resources.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.RaspPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.SecPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.csproj.GenerateResource.Cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.load.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Release\Bobcalc.StartScreen.resources

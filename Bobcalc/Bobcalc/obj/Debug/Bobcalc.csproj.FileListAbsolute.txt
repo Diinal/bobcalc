@@ -1,0 +1,14 @@
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.Cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.MainPage.resources

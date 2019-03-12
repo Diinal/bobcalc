@@ -1,0 +1,84 @@
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.Cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\phizi_000\Desktop\С# practice\Bobcalc\Bobcalc\obj\Debug\Bobcalc.MainPage.resources
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.Cache
+D:\C#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+D:\C#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+D:\C#\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+D:\C#\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+D:\C#\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+D:\C#\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+D:\C#\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojResolveAssemblyReference.cache
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.Cache
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.OtkatPage.resources
+D:\C#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.RaspPage.resources
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.OtkatPage.resources
+C:\Users\phizi_000\Desktop\С#\Bobcalc\Bobcalc\obj\Debug\Bobcalc.RaspPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojResolveAssemblyReference.cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.OtkatPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.RaspPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.Cache
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.SecPage.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Load.resources
+C:\Users\Wily Fox\Desktop\Bobcalc\Bobcalc\obj\Debug\Bobcalc.StartScreen.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.config
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\Bobcalc.pdb
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.dll
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.dll
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\CircularProgressBar.xml
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\WinFormAnimation.xml
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csprojAssemblyReference.cache
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.ResolveComReference.cache
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.load.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.OtkatPage.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.Properties.Resources.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.RaspPage.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.SecPage.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.StartScreen.resources
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.GenerateResource.cache
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.CoreCompileInputs.cache
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.csproj.CopyComplete
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.exe
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\obj\Debug\Bobcalc.pdb
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.CodeAnalysisLog.xml
+F:\С#\09.05.18_final\09.05.18_final\Bobcalc\Bobcalc\bin\Debug\Bobcalc.exe.lastcodeanalysissucceeded
